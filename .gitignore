@@ -1,0 +1,26 @@
+# Arquivos de dependências e builds
+**/[Bb]in/
+**/[Oo]bj/
+**/[Pp]ackages/
+**/[Dd]ebug/
+**/[Rr]elease/
+
+# Arquivos de configuração do Visual Studio e VS Code
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings.user
+
+# Arquivos do sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos do Entity Framework Migrations
+**/Migrations/*.Designer.cs
